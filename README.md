@@ -1,4 +1,6 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://simpleicons.org/icons/mysql.svg-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+
 
 <!--
 **ayun0614/ayun0614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
