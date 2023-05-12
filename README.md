@@ -1,8 +1,5 @@
 <div align="center"> 
   
-  #  :wave: Welcome my github profile !
-  <br/><br/><br/><br/>
-  
   ###  My Skils🔤:
   
 
