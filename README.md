@@ -5,6 +5,7 @@
 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-ff7f00?style=flat-square&logo=java&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
  
   <br/>
