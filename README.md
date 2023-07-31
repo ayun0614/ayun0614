@@ -37,6 +37,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=ayun0614&show_icons=true" />
 </picture>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ayun0614)](https://solved.ac/skseehd82)
   <br/>
   <br/>
   
