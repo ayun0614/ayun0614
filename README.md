@@ -25,6 +25,8 @@
   <br/> 
   <br/>
   <br/>
+
+  ###  GitHub Stats🧰:
   
 <picture>
 <source 
@@ -37,8 +39,11 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=ayun0614&show_icons=true" />
 </picture>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ayun0614)](https://solved.ac/skseehd82)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayun0614&langs_count=8)](https://github.com/ayun0614/github-readme-stats)
   <br/>
   <br/>
   
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=skseehd82)](https://solved.ac/skseehd82)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fayun0614%2F&count_bg=%2379C83D&title_bg=%23555555&icon=ello.svg&icon_color=%23FFFFFF&title=visit&edge_flat=true)](https://hits.seeyoufarm.com)     
