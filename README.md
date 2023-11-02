@@ -1,12 +1,14 @@
 <div align="center"> 
   
   ###  My Skils🔤:
-  
 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-ff7f00?style=flat-square&logo=java&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"><br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/OracleSQL-F80000?style=flat-square&logo=Oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
  
   <br/>
   <br/> 
@@ -17,22 +19,28 @@
   
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white">
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"><br>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
   
   <br/>
   <br/> 
   <br/>
   <br/>
 
-  ###  GitHub Stats🧰:
+  ###  BaekJoon Stats🧰:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=skseehd82)](https://solved.ac/skseehd82)
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=ayun0614&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
+
+###  GitHub Stats🧰:
+
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=ayun0614&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
